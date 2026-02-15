@@ -200,11 +200,10 @@
 
 
 
-1. Перейти в раздел [Releases](https://github.com/Give-me-a-chance/Dungeon/releases)
-(справа на главной странице).
+1. Перейти в раздел [Releases](https://github.com/Give-me-a-chance/Dungeon/releases).
 2. Скачать архив последней версии (`Dungeon_v1.0.zip`).
 3. Распаковать архив в удобное место.
-4. Запустить файл `Release\Dungeon.exe`
+4. Запустить файл `Release\Dungeon.exe`.
 
 
 
