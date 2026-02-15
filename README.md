@@ -201,7 +201,7 @@
 
 
 * Скачать папку Build,
-* запустить файл `Build\Dungeon.exe`
+* запустить файл `Release\Dungeon.exe`
 
 
 
