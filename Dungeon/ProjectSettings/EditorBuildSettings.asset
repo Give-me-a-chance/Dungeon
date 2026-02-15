@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/rooms.unity
+    guid: e7ace6758e448c04aa8d855d041d0371
+  - enabled: 0
+    path: Assets/Scenes/GunTest.unity
+    guid: f0cf22e6fbbfba54598eb240d0b3f532
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8242e63cc371b37488b06369edcc2ac9
+  - enabled: 1
+    path: Assets/Scenes/Room2.unity
+    guid: 21cce6417ca42334bb452fdf208ac75b
+  - enabled: 1
+    path: Assets/Scenes/InventoryMenu.unity
+    guid: dbc8cfd6edb614142a365c81c24adbc0
+  - enabled: 1
+    path: Assets/Scenes/GoldGained.unity
+    guid: fd06fbe759243a34687299e6fa22241a
+  - enabled: 1
+    path: Assets/Scenes/GunsTest.unity
+    guid: db263c2028156b44e87a6b71f66493e4
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: b835489298f8f234497554bdf6bc5e72, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: e647c5a4ce1361e43baf9037af107092, type: 2}
